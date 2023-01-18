@@ -1,4 +1,4 @@
-### Yo! here Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## Yo! here Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <!--
 **uma-dev/uma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-      🎓 I'm a graduated **Telecomm Engineer ** and Developer.
-      🌱 I'm currently learning **---** and also interested in Data Science.
-      ✨ I love to create different types of **programming** and **electronics** proyects, mostly about _CNC/Laser cut_ and _3D Print_
-      📚 I love reading books of **biographies** and **personal development**.
-      🏅 I love **BJJ** and **Muay Thai** too. I have been training since _2021_, here I train my mind and body in order to be more confident.
+🎓 I'm a graduated **Telecomm Engineer ** and Developer.
+🌱 I'm currently learning **---** and also interested in Data Science.
+✨ I love to create different types of **programming** and **electronics** proyects, mostly about _CNC/Laser cut_ and _3D Print_
+📚 I love reading books of **biographies** and **personal development**.
+🏅 I love **BJJ** and **Muay Thai** too. I have been training since _2021_, here I train my mind and body in order to be more confident.
 
 ## 🛠️ Skills
 
