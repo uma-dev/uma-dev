@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/uma_dev_)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/uma-dev)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/uma-dev)
+
+## Stats
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=uma-dev&show_icons=true&theme=transparent)
