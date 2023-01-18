@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🎓 I'm a graduated **Telecomm Engineer ** and Developer.
-- 🌱 I'm currently learning **---** and also interested in Data Science.
+- 🎓 I'm a graduated Telecomm Engineer and **Developer**.
 - ✨ I love to create different types of **programming** and **electronics** proyects, mostly about _CNC/Laser cut_ and _3D Print_
 - 📚 I love reading books of **biographies** and **personal development**.
-- 🏅 I love **BJJ** and **Muay Thai** too. I have been training for two years. Here I train my mind and body in order to be more confident and keep fit.
+- 💬 Ask me about Python(weighted interval scheduling algorithm) and C (microcontrollers programming).
+- ⚡ I love **BJJ** and **Muay Thai** too. I have been training for two years in order to be more confident and keep fit. 
 
 ## 🛠️ Skills
 
@@ -32,15 +32,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1sgaYMAAzv8HWJP-C892rGkISx0XzEcRb/view?usp=sharing)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/omar-roldan-guerra/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/uma_dev_)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/uma-dev)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mailto:omar.roldan.50@gmail.com)
-
-## Stats
+## 📈 Stats
 
 <br/>   
 <div align="center">
@@ -48,6 +41,12 @@ Here are some ideas to get you started:
 <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
 </a>
 </div>  
-  
 <br/>  
-[Omar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40)
+
+## 🔗 Links
+
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1sgaYMAAzv8HWJP-C892rGkISx0XzEcRb/view?usp=sharing)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/omar-roldan-guerra/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/uma_dev_)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/uma-dev)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mailto:omar.roldan.50@gmail.com)
