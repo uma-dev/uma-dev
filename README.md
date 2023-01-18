@@ -42,4 +42,12 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![Omar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40)
+<br/>   
+<div align="center">
+<a href="https://github.com/uma-dev" target="_blank">
+<img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
+</a>
+</div>  
+  
+<br/>  
+[Omar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40)
