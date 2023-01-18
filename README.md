@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=uma-dev&show_icons=true&theme=transparent)
+
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uma-dev=react&line_height=40&hide=css"/> </a>
