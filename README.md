@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <tr>
-    <td valign="center">
-      🎓 I'm a graduated **Telecomm Engineer **.
-      🌱 I'm currently learning **--- ** and also interested in Data Science.
-      ✨ I love to create different types of **contents**.
-    
-  </tr>
-  </table>
+## About me
+      🎓 I'm a graduated **Telecomm Engineer ** and Developer.
+      🌱 I'm currently learning **---** and also interested in Data Science.
+      ✨ I love to create different types of **programming** and **electronics** proyects, mostly about _CNC/Laser cut_ and _3D Print_
+      📚 I love reading books of **biographies** and **personal development**.
+      🏅 I love **BJJ** and **Muay Thai** too. I have been training since _2021_, here I train my mind and body in order to be more confident.
+
+## 🛠️ Skills
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  
