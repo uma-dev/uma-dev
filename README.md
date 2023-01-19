@@ -37,9 +37,12 @@ Here are some ideas to get you started:
         <a href="https://isocpp.org/" target="_blank">
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
         </a> 
-        <a href="https://www.latex-project.org/" target="_blank">
-            <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+       <a href="https://www.iso.org/standard/74528.html" target="_blank">
+            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
         </a> 
+        <a href="https://www.php.net/" target="_blank">
+            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        </a>
   </div>
 </td>
 <td valign="top" width="33%">
@@ -60,16 +63,22 @@ Here are some ideas to get you started:
 <td valign="top" width="33%">
  
 
-  ### Design Tools  
+  ### Tools & sw 
   <div align="center">  
     <a href="https://www.canva.com/" target="_blank">
       <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
     </a>
-    <a href="https://www.canva.com/" target="_blank">
-      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    <a href="https://www.latex-project.org/" target="_blank">
+            <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+    </a> 
+    <a href="https://www.gimp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
     </a>
-    <a href="https://www.canva.com/" target="_blank">
-      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    <a href="https://www.vim.org/" target="_blank">
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </a>
   </div>
 </td></tr></table> 
