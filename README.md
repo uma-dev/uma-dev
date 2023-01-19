@@ -99,13 +99,12 @@ Here are some ideas to get you started:
 --->
 
 ## 📈 Stats
-
 <br/> 
 
  <div class="row">
   <div class="column">
     <a href="https://github.com/uma-dev" target="_blank">
-    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=450&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
+    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
   </a>
   </div>
   
