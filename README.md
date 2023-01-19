@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🎓 I'm a graduated Telecomm Engineer and **Developer**.
 - ✨ I love to create different types of **programming** and **electronics** proyects like  _CNC/Laser cut_ and _3D Print_
 - 📚 Part of my time I use to read **Autobiographies** and **personal development** books.
-- 💬 Feel free to ask me about Python(weighted interval scheduling algorithm, 2D videogames construction) and C (microcontrollers programming).
-<!--- ⚡ I love **BJJ** and **Muay Thai** too. I have been training for two years in order to be more confident and keep fit.-->
+<!---- 💬 Feel free to ask me about Python(weighted interval scheduling algorithm, 2D videogames construction) and C (microcontrollers programming).
+- ⚡ I love **BJJ** and **Muay Thai** too. I have been training for two years in order to be more confident and keep fit.-->
 
 ## 🛠️ Skills
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
     </a> 
   </div>
-</td>
-   
-<td valign="top" width="33%">  
+</td>    
+<td valign="top" width="33%">
+    
 ### Front-End Development  
   <div align="center">  
      <a href="https://html.spec.whatwg.org/" target="_blank">
@@ -55,9 +55,10 @@ Here are some ideas to get you started:
        <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </a> 
   </div>
-</td>
-  
+</td>  
 <td valign="top" width="33%">
+ 
+    
   ### Design Tools  
   <div align="center">  
     <a href="https://www.canva.com/" target="_blank">
@@ -70,9 +71,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
     </a>
   </div>
-</td>
-</tr>
-</table> 
+</td></tr></table> 
 
 <!---
 ### Languages
