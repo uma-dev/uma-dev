@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 
-<br/>  
-<table>
-<tr>
-<td valign="top" width="33%">
-### Languages  <div align="center">  
+<table><tr><td valign="top" width="33%">
+### Languages  
+    <div align="center">  
     <a href="https://www.java.com/" target="_blank">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     </a>  
@@ -44,8 +42,8 @@ Here are some ideas to get you started:
   </div>
 </td>
    
-<td valign="top" width="33%">
-  ### Front-End Development  
+<td valign="top" width="33%">  
+### Front-End Development  
   <div align="center">  
      <a href="https://html.spec.whatwg.org/" target="_blank">
        <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
@@ -103,7 +101,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/uma-dev" target="_blank">
      <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
     </a>
- <br/> <br/> <br/> 
+ <br/> <br/>
     <a href="https://github.com/uma-dev" target="_blank">
      <img src=https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A />
     </a>
