@@ -65,15 +65,26 @@ Here are some ideas to get you started:
 ## 🔗 Links
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="150"/>
 </p>  
 <p align="center">
-  [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1sgaYMAAzv8HWJP-C892rGkISx0XzEcRb/view?usp=sharing)
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mailto:omar.roldan.50@gmail.com)
-  [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/uma_dev_)
-  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/omar-roldan-guerra/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/uma-dev)
+  <a href="https://www.linkedin.com/in/omar-roldan-guerra/">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)" alt="LinkedIn Badge">
+  </a>
+  <a href="https://drive.google.com/file/d/1sgaYMAAzv8HWJP-C892rGkISx0XzEcRb/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV Badge">
+  </a>
+  <a href="mailto:omar.roldan.50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://dev.to/uma_dev_">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" alt="Dev.to Badge">
+  </a>
+   <a href="https://github.com/uma-dev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="">
+  </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=blue" alt="">
 </p>
