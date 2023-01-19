@@ -28,16 +28,7 @@ Here are some ideas to get you started:
 
 ### Languages   
   <div align="center">  
-     <a href="https://html.spec.whatwg.org/" target="_blank">
-       <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
-    </a> 
-     <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-       <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </a> 
-     <a href="https://getbootstrap.com/" target="_blank">
-       <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </a>
-    <a href="https://www.java.com/" target="_blank">
+        <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         </a>  
         <a href="https://www.python.org/" target="_blank">
@@ -55,15 +46,15 @@ Here are some ideas to get you started:
     
 ### Front-End Development  
   <div align="center">  
-     <a href="https://html.spec.whatwg.org/" target="_blank">
-       <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
-    </a> 
-     <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-       <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </a> 
-     <a href="https://getbootstrap.com/" target="_blank">
-       <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </a> 
+      <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
+      </a> 
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+         <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      </a> 
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </a> 
   </div>
 </td>  
 <td valign="top" width="33%">
