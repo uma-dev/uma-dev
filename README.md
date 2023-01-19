@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <br/>   
 <div align="center">
   <a href="https://github.com/uma-dev" target="_blank">
-    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=450&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
+    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=400&line_height=0&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
   </a>
   <a href="https://github.com/uma-dev" target="_blank">
     <img src=https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A />
