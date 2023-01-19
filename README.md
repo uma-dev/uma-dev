@@ -69,7 +69,10 @@ Here are some ideas to get you started:
 </p>  
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+  </a>
+   <a href="https://dev.to/uma_dev_">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" alt="Dev.to Badge">
   </a>
   <a href="https://drive.google.com/file/d/1sgaYMAAzv8HWJP-C892rGkISx0XzEcRb/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV Badge">
@@ -77,11 +80,8 @@ Here are some ideas to get you started:
   <a href="mailto:omar.roldan.50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://dev.to/uma_dev_">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" alt="Dev.to Badge">
-  </a>
    <a href="https://github.com/uma-dev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge">
   </a>
 </p>
 
