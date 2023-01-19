@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 
   ### Tools & sw 
   <div align="center">  
-    <a href="https://www.canva.com/" target="_blank">
-      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    <a href="https://www.linux.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </a>
     <a href="https://www.latex-project.org/" target="_blank">
             <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
     <a href="https://www.vim.org/" target="_blank">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
     </a>
-    <a href="https://www.linux.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <a href="https://www.canva.com/" target="_blank">
+      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
     </a>
   </div>
 </td></tr></table> 
