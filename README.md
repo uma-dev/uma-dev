@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
-    
-    
+
 ### Languages  
     <div align="center">  
     <a href="https://www.java.com/" target="_blank">
@@ -60,7 +59,7 @@ Here are some ideas to get you started:
 </td>  
 <td valign="top" width="33%">
  
-    
+
   ### Design Tools  
   <div align="center">  
     <a href="https://www.canva.com/" target="_blank">
