@@ -41,7 +41,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
     </a> 
     <a href="https://www.latex-project.org/" target="_blank">
-      <img src="" alt="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+      <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
     </a> 
   </div>
 </td>
