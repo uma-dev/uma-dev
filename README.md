@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 <br/>   
 <div align="center">
   <a href="https://github.com/uma-dev" target="_blank">
-    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
+    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&show_icons=true&line_height=40 />
   </a>
   <a href="https://github.com/uma-dev" target="_blank">
-    <img src=http://github-readme-streak-stats.herokuapp.com?user=uma-dev&theme=dark&background=000000 />
+    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&show_icons=true&line_height=40&hide=contribs />
   </a>
 </div>  
 <br/>  
