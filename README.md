@@ -56,10 +56,13 @@ Here are some ideas to get you started:
 
 <br/>   
 <div align="center">
-<a href="https://github.com/uma-dev" target="_blank">
-<img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
-</a>
+  <a href="https://github.com/uma-dev" target="_blank">
+    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
+  </a>
 </div>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uma-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uma-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/uma-dev)
 <br/>  
 
 ## 🔗 Links
