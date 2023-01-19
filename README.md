@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </td>
    
 <td valign="top" width="33%">
-### Front-End Development  
+  ### Front-End Development  
   <div align="center">  
      <a href="https://html.spec.whatwg.org/" target="_blank">
        <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </td>
   
 <td valign="top" width="33%">
-### Design Tools  
+  ### Design Tools  
   <div align="center">  
     <a href="https://www.canva.com/" target="_blank">
       <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
