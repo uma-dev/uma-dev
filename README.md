@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
+    
+    
 ### Languages  
     <div align="center">  
     <a href="https://www.java.com/" target="_blank">
