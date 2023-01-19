@@ -100,31 +100,15 @@ Here are some ideas to get you started:
 
 ## 📈 Stats
 <br/> 
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
 
- <div class="row">
-  <div class="column">
+ <div align="center">
     <a href="https://github.com/uma-dev" target="_blank">
-    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
-  </a>
-  </div>
-  
-  <div class="column">
+     <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
+    </a>
     <a href="https://github.com/uma-dev" target="_blank">
-    <img src=https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A />
-  </a>
+     <img src=https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A />
+    </a>
   </div>
-</div> 
-
 
 <br/>  
 
