@@ -1,4 +1,4 @@
-## Yo! here Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> here Omar
 
 <!--
 **uma-dev/uma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,13 +59,19 @@ Here are some ideas to get you started:
   <a href="https://github.com/uma-dev" target="_blank">
     <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
   </a>
+  <a href="https://github.com/uma-dev" target="_blank">
+    <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
+  </a>
 </div>  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uma-dev&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uma-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/uma-dev)
 <br/>  
 
 ## 🔗 Links
+
+<p align="center">
+ <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">-->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=440&height=45&color= ebf5fb&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 
 <p align="center">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="150"/>
