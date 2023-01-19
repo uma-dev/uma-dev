@@ -24,45 +24,99 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 
-### Languages
+<br/>  
+ 
+<table>
+<tr>
+<td valign="top" width="33%">
+### Languages  
+  <div align="center">  
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    </a>  
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a> 
+    <a href="https://isocpp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
+    </a> 
+    <a href="https://www.latex-project.org/" target="_blank">
+      <img src="" alt="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+    </a> 
+  </div>
+</td>
+   
+<td valign="top" width="33%">
+### Front-End Development  
+  <div align="center">  
+     <a href="https://html.spec.whatwg.org/" target="_blank">
+       <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
+    </a> 
+     <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+       <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    </a> 
+     <a href="https://getbootstrap.com/" target="_blank">
+       <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </a> 
+  </div>
+</td>
+  
+<td valign="top" width="33%">
+### Design Tools  
+  <div align="center">  
+    <a href="https://www.canva.com/" target="_blank">
+      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    </a>
+    <a href="https://www.canva.com/" target="_blank">
+      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    </a>
+    <a href="https://www.canva.com/" target="_blank">
+      <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    </a>
+  </div>
+</td>
+</tr>
+</table> 
 
+<!---
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-<!---![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)--->
+<!---![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)->
 
 ### Front-End Development
-
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Design Tools
-              
+### Design Tools       
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+--->
 
 ## 📈 Stats
 
-<br/>   
-<div align="center">
-  <a href="https://github.com/uma-dev" target="_blank">
+<br/> 
+
+ <div class="row">
+  <div class="column">
+    <a href="https://github.com/uma-dev" target="_blank">
     <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=450&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs />
   </a>
-  <a href="https://github.com/uma-dev" target="_blank">
+  </div>
+  
+  <div class="column">
+    <a href="https://github.com/uma-dev" target="_blank">
     <img src=https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A />
   </a>
-</div>  
+  </div>
+</div> 
+
+
 <br/>  
 
 ## 🔗 Links
