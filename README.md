@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&theme=react&line_height=40 />
   </a>
   <a href="https://github.com/uma-dev" target="_blank">
-    <img src=http://github-readme-streak-stats.herokuapp.com?user=uma-dev&theme=react&line_height=40 />
+    <img src=http://github-readme-streak-stats.herokuapp.com?user=uma-dev&theme=dark&background=000000 />
   </a>
 </div>  
 <br/>  
