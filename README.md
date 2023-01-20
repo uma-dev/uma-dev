@@ -120,9 +120,13 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
+
 <p align="center">
- <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">-->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=440&height=45&color= ebf5fb&vCenter=true&pause=1000&size=22" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=440&height=45&color=ebf5fb&vCenter=true&pause=1000&size=22">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=440&height=45&color=0a376f&vCenter=true&pause=1000&size=22">
+  <img alt="Typing text" src="">
+</picture>
 </p>
 
 
