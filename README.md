@@ -146,9 +146,6 @@ Here are some ideas to get you started:
   <!--- <a href="https://github.com/uma-dev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge">
   </a> --->
-  <a href="mailto:omar.roldan.50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
 </p>
 
 <p align="center">
