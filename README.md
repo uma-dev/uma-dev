@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🎓 I'm a graduated Telecomm Engineer and **Developer**.
-- ✨ I love to create different types of **programming** and **electronics** projects like  _CNC/Laser cut_ and _3D Print_
+- 🎓 I'm a Telecomm Engineer and **Developer**.
+- ✨ I love to create different types of **programming** and **electronics** projects with __Spring__ (web apps), Python (some funny games) and  _CNC/Laser cut_ / _3D Print_
 - 📚 Part of my time I use to read **Autobiographies** and **human behavior** books.
 <!---- 💬 Feel free to ask me about Python(weighted interval scheduling algorithm, 2D videogames construction) and C (microcontrollers programming).
 - ⚡ I love **BJJ** and **Muay Thai** too. I have been training for two years in order to be more confident and keep fit.-->
@@ -26,11 +26,14 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="33%">
 
-### Languages   
+### Back-End and Languages   
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         </a>  
+        <a href="https://spring.io/" target="_blank"> 
+          <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+        </a>
         <a href="https://www.python.org/" target="_blank">
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         </a> 
@@ -47,10 +50,13 @@ Here are some ideas to get you started:
 </td>
 <td valign="top" width="33%">
     
-### Front-End Development  
+### Front-End Development
   <div align="center">  
       <a href="https://html.spec.whatwg.org/" target="_blank">
         <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
+      </a> 
+      <a href="https://www.thymeleaf.org/" target="_blank">
+         <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
       </a> 
       <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
          <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -68,12 +74,11 @@ Here are some ideas to get you started:
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </a>
+    <a href="https://cloud.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud" />
+    </a>
     <a href="https://www.latex-project.org/" target="_blank">
             <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-    </a> 
-    <a href="https://www.gimp.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
-    </a>
     <a href="https://www.vim.org/" target="_blank">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
     </a>
@@ -140,12 +145,9 @@ Here are some ideas to get you started:
    <a href="https://dev.to/uma_dev_">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" alt="Dev.to Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1sgaYMAAzv8HWJP-C892rGkISx0XzEcRb/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV Badge">
-  </a>
-  <!--- <a href="https://github.com/uma-dev">
+  <a href="https://github.com/uma-dev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge">
-  </a> --->
+  </a> 
 </p>
 
 <p align="center">
