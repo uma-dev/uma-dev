@@ -77,14 +77,19 @@ Here are some ideas to get you started:
     <a href="https://cloud.google.com/" target="_blank">
       <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud" />
     </a>
+    <a href="https://www.postman.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PostMan" />
+    </a>
     <a href="https://www.latex-project.org/" target="_blank">
             <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-    <a href="https://www.vim.org/" target="_blank">
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </a>
+    <!-- 
     <a href="https://www.canva.com/" target="_blank">
       <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
     </a>
+    -->
   </div>
 </td></tr></table> 
 
