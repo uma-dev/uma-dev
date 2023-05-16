@@ -122,9 +122,7 @@ Here are some ideas to get you started:
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs">
       <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=vue&      show_icons=true&line_height=40&hide=stars,contribs">
     </picture>
-  
     <br/> <br/>
-  
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A"> 
