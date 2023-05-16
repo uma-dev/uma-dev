@@ -125,10 +125,10 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=vue&show_icons=true&line_height=40&hide=stars,contribs">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs">
     
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A">
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=56BCD9">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A">
     
-  <img alt="" src="https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A">
+  <img alt="" src="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=56BCD9">
 </picture>
   
  <br/> <br/>
