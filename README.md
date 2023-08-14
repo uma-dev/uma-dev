@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🎓 I'm a Telecomm Engineer and **Developer**.
-- ✨ I love to create different types of **programming** and **electronics** projects with __Spring__ (web apps), Python (some funny games) and  _CNC/Laser cut_ / _3D Print_
+- 🎓 I'm a  **Developer** and Telecomm Engineer.
+- ✨ I love to create different types of **programming** and **electronics** projects with __Spring/ HTML-CSS__ (web apps), Python (some funny games) and  _CNC/Laser cut_ / _3D Print_
 - 📚 Part of my time I use to read **Autobiographies** and **human behavior** books.
-<!---- 💬 Feel free to ask me about Python(weighted interval scheduling algorithm, 2D videogames construction) and C (microcontrollers programming).
+<!---- 💬 Feel free to ask me about Spring Boot (REST API, MVC and Microservices), Python(2D videogames construction) and C (microcontrollers programming).
 - ⚡ I love **BJJ** and **Muay Thai** too. I have been training for two years in order to be more confident and keep fit.-->
 
 ## 🛠️ Skills
