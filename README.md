@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 - 🎓 I'm a  **Developer** and Telecomm Engineer.
-- ✨ I love to create different types of **programming** projects with __Spring/ HTML-CSS__ (web apps), Python (some funny games) and  _CNC/Laser cut_ / _3D Print_
+- ✨ I love to create different types of **programming** projects with __Spring/ HTML-CSS__ (web apps), Python (scripts, simulations, and funny games) and  _CNC/Laser cut_ / _3D Print_
 - 📚 Part of my time I use to read **Autobiographies** and **human behavior** books.
 <!---- 💬 Feel free to ask me about Spring Boot (REST API, MVC and Microservices), Python(2D videogames construction) and C (microcontrollers programming).
 
