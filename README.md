@@ -5,7 +5,6 @@
 -  I'm a  **Developer** and Telecomm Engineer.
 -  I love to create different types of **programming** projects with __Spring/ HTML-CSS__ (web apps), Python (scripts, simulations, and funny games) and  _CNC/Laser cut_ / _3D Print_
 -  Part of my time I use to read **Autobiographies** and **human behavior** books.
-<!---- 💬 Feel free to ask me about Spring Boot (REST API, MVC and Microservices), Python(2D videogames construction) and C (microcontrollers programming). -->
 
 ## 🛠️ Skills
 
@@ -89,26 +88,6 @@
   </div>
 </td></tr></table> 
 
-<!---
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-<!---![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)->
-
-### Front-End Development
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Design Tools       
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
---->
-
 ## 📈 Stats
 <br/> 
 
@@ -156,6 +135,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=blue" alt="">
+  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=blue" alt="My stats">
 </p>
 
