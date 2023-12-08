@@ -2,15 +2,15 @@
 
 
 ## About me
--  I'm a  **Developer** and Telecomm Engineer.
--  I love to create different types of **programming** projects with __Spring/ HTML-CSS__ (web apps), Python (scripts, simulations, and funny games) and  _CNC/Laser cut_ / _3D Print_
--  Part of my time I use to read **Autobiographies** and **human behavior** books.
+-  **Developer** and Telecomm Engineer.
+-  I enjoy creating different **programming** projects with __Spring/ React with TypeScript__ for web applications, Python for scripts, simulations, and 2D games.
+-  Part of my time I use to read books and working with CNC/Laser cutting and 3D printing technologies.
 
 ## 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
 
-### Back-End and Languages   
+### Back-End and +   
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -35,7 +35,10 @@
         </a>
         <a href="https://nodejs.org/en" target="_blank">
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-        </a>
+        </a> 
+        <a href="https://www.postgresql.org/" target="_blank">
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+        </a> 
   </div>
 </td>
 <td valign="top" width="33%">
@@ -45,8 +48,11 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"  />
       </a> 
-      <a href="https://html.spec.whatwg.org/" target="_blank">
-        <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"  />
+      <a href="https://react.dev/" target="_blank">
+        <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"  />
+      </a> 
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"  />
       </a> 
       <a href="https://www.thymeleaf.org/" target="_blank">
          <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
