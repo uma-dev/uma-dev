@@ -1,16 +1,15 @@
-## Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> here Omar
+## Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-
-## About me
+### About me
 -  **Developer** and Telecomm Engineer.
--  I enjoy creating different **programming** projects with __Spring/ React with TypeScript__ for web applications, Python for scripts, simulations, and 2D games.
--  Part of my time I use to read books and working with CNC/Laser cutting and 3D printing technologies.
+-  I enjoy creating web applications, scripts, and 2D games.
+-  I enjoy working with CNC/Laser cutting and 3D printing.
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
 
-### Back-End and +   
+#### Back-End and +   
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -43,7 +42,7 @@
 </td>
 <td valign="top" width="33%">
     
-### Front-End
+#### Front-End
   <div align="center">  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"  />
@@ -68,7 +67,7 @@
 <td valign="top" width="33%">
  
 
-  ### Tools & others
+  #### Tools & others
   <div align="center">  
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
