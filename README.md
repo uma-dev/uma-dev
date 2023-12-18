@@ -88,9 +88,9 @@
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </a>
-    <!--- <a href="https://neovim.io/" target="_blank">
+    <a href="https://neovim.io/" target="_blank">
       <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-    </a> --->
+    </a> 
   </div>
 </td></tr></table> 
 
