@@ -1,6 +1,5 @@
 # Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## About me
 -  **Developer** and Telecomm Engineer.
 -  I enjoy creating web applications, scripts, and 2D games.
 -  I enjoy working with CNC/Laser cutting and 3D printing.
@@ -94,31 +93,29 @@
 </td></tr></table> 
 
 ## 📈 Stats
-<br/> 
-
- <div align="center">
-    <picture>
+<table><tr>
+  <td valign="center" width="50%"><div align="center">  
+    <picture >
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=default&show_icons=true&line_height=40&hide=stars,contribs">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs">
       <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=vue&      show_icons=true&line_height=40&hide=stars,contribs">
     </picture>
-    <br/> <br/>
+  </div></td>
+<td valign="center" width="50%"><div align="center">  
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A"> 
       <img alt="2" src="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
   </picture>
-  </div>
-
-<br/>  
+  </div></td>
+</tr></table> 
 
 ## 🔗 Links
 
-
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=440&height=45&color=ebf5fb&vCenter=true&pause=1000&size=22">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=440&height=45&color=0a376f&vCenter=true&pause=1000&size=22">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=ebf5fb&vCenter=true&pause=1000&size=22">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=0a376f&vCenter=true&pause=1000&size=22">
   <img alt="Typing text" src="">
 </picture>
 </p>
@@ -131,12 +128,6 @@
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/">
     <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/uma-dev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github">
-  </a> 
-  <a href="https://twitter.com/uma_dev_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a> 
 </p>
 
 <p align="center">
