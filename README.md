@@ -120,15 +120,9 @@
 </picture>
 </p>
 
-
 <p align="center">
-  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="150"/>
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="130"/>
 </p>  
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-roldan-guerra/">
-    <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=blue" alt="My stats">
