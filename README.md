@@ -114,8 +114,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=ebf5fb&vCenter=true&pause=1000&size=22">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=0a376f&vCenter=true&pause=1000&size=22">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=ebf5fb&vCenter=true&pause=1000&size=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=0a376f&vCenter=true&pause=1000&size=14">
   <img alt="Typing text" src="">
 </picture>
 </p>
