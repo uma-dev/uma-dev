@@ -92,7 +92,7 @@
   </div>
 </td></tr></table> 
 
-## 📈 Stats
+### 📈 Stats
 <table><tr>
   <td valign="center" width="50%"><div align="center">  
     <picture >
@@ -110,7 +110,7 @@
   </div></td>
 </tr></table> 
 
-## 🔗 Links
+### 🔗 Let's Talk
 
 <p align="center">
 <picture>
