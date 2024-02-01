@@ -5,7 +5,7 @@
 ### 🛠️ Skills
 <table><tr><td valign="top" width="33%">
 
-#### Back-End and +   
+Back-End and +   
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="33%">
     
-#### Front-End
+Front-End
   <div align="center">  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"  />
@@ -62,7 +62,7 @@
 </td>  
 <td valign="top" width="33%">
 
-  #### Tools & others
+Tools & others
   <div align="center">  
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
