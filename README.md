@@ -1,9 +1,8 @@
-# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 -  **Developer** and Telecomm Engineer. I enjoy creating web applications, scripts, and 2D games.
 
 ### 🛠️ Skills
-
 <table><tr><td valign="top" width="33%">
 
 #### Back-End and +   
@@ -62,7 +61,6 @@
   </div>
 </td>  
 <td valign="top" width="33%">
- 
 
   #### Tools & others
   <div align="center">  
@@ -109,7 +107,6 @@
 </tr></table> 
 
 ### 🔗 Let's Talk
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=ebf5fb&vCenter=true&pause=1000&size=14">
