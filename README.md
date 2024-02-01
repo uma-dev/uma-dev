@@ -1,8 +1,6 @@
 # Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
--  **Developer** and Telecomm Engineer.
--  I enjoy creating web applications, scripts, and 2D games.
--  I enjoy working with CNC/Laser cutting and 3D printing.
+-  **Developer** and Telecomm Engineer. I enjoy creating web applications, scripts, and 2D games.
 
 ### 🛠️ Skills
 
