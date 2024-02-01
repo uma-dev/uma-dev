@@ -96,9 +96,9 @@
 <table><tr>
   <td valign="center" width="50%"><div align="center">  
     <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=default&show_icons=true&line_height=40&hide=stars,issues,">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=30&theme=default&show_icons=true&line_height=40&hide=stars,issues,">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=30&theme=react&show_icons=true&line_height=40&hide=stars,issues,">
-      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=37&theme=vue&show_icons=true&line_height=40&hide=stars,contribs,issues,">
+      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=30&theme=vue&show_icons=true&line_height=40&hide=stars,contribs,issues,">
     </picture>
   </div></td>
 <td valign="center" width="50%"><div align="center">  
