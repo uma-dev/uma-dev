@@ -2,7 +2,7 @@
 
 -  **Developer** and Telecomm Engineer. I enjoy creating web applications, scripts, and 2D games.
 
-### 🛠️ Skills
+### 🛠️ Skills and Stats
 <table><tr><td valign="top" width="33%">
 
 Back-End and +   
@@ -88,7 +88,7 @@ Tools & others
   </div>
 </td></tr></table> 
 
-### 📈 Stats
+
 <table><tr>
   <td valign="center" width="50%"><div align="center">  
     <picture >
