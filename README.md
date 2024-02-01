@@ -121,7 +121,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="120"/>
+  <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
+    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="120"/>
+  </a>  
 </p>  
 
 <p align="center">
