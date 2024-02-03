@@ -109,15 +109,15 @@ Tools & others
 ### 🔗 Let's Talk
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=ebf5fb&vCenter=true&pause=1000&size=14">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=20&color=0a376f&vCenter=true&pause=1000&size=14">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=15&color=ebf5fb&vCenter=true&pause=800&size=13">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Contact%20me&font=Fira%20Code&center=true&width=400&height=15&color=0a376f&vCenter=true&pause=800&size=13">
   <img alt="Typing text" src="">
 </picture>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
-    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="120"/>
+    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="90"/>
   </a>  
 </p>  
 
