@@ -1,4 +1,4 @@
-# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Yo! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> -->
 
 I'm a **Developer** and Telecomm Eng, join me on a journey where web applications, scripts and more come to life!
 
@@ -123,6 +123,6 @@ Tools & others
 </p>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=blue" alt="My stats">
+  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
 </p>
 
