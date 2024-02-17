@@ -92,14 +92,14 @@ Tools & others
 <table><tr>
   <td valign="center" width="50%"><div align="center">  
     <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=30&theme=default&show_icons=true&line_height=40&hide=stars,issues,">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&hide_border=true&show_icons=true&card_width=50&line_height=30&theme=default&show_icons=true&line_height=40&hide=stars,issues,">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&hide_border=true&show_icons=true&card_width=50&line_height=30&theme=react&bg_color=0D1116&show_icons=true&line_height=70&hide=stars,issues,">
       <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&show_icons=true&card_width=50&line_height=30&theme=vue&show_icons=true&line_height=40&hide=stars,contribs,issues,">
     </picture>
   </div></td>
 <td valign="center" width="50%"><div align="center">  
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=uma-dev&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=0D1116"> 
       <img alt="2" src="https://streak-stats.demolab.com/?user=uma-dev&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
   </picture>
