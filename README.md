@@ -2,6 +2,7 @@
 
 I'm a **Developer** and Telecomm Eng, join me on a journey where web applications, scripts and more come to life!
 
+<!-- Skills -->
 <div>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -70,10 +71,9 @@ I'm a **Developer** and Telecomm Eng, join me on a journey where web application
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   </a> 
 </div>
-<br/>
-<br/>
 
 <!-- Stats -->
+<br/>
 <table><tr>
   <td valign="center" width="50%">
   <div align="center">  
@@ -93,6 +93,7 @@ I'm a **Developer** and Telecomm Eng, join me on a journey where web application
 </td>
 </tr></table>
 
+<!-- Contact -->
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
@@ -100,6 +101,7 @@ I'm a **Developer** and Telecomm Eng, join me on a journey where web application
   </a>  
 </p>  
 
+<!-- Profile views --> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
 </p>
