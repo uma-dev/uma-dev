@@ -1,8 +1,6 @@
-# Yo! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> -->
+# Hi there! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> -->
 
 I'm a **Developer** and Telecomm Eng, join me on a journey where web applications, scripts and more come to life!
-
-### 🛠️ Skills and Stats
 
 <div>
   <a href="https://www.java.com/" target="_blank">
@@ -95,11 +93,10 @@ I'm a **Developer** and Telecomm Eng, join me on a journey where web application
 </td>
 </tr></table>
 
-### 🔗 Let's Talk
-
+<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
-    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="90"/>
+    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="80"/>
   </a>  
 </p>  
 
