@@ -25,6 +25,9 @@ I'm a **Developer** and Telecomm Eng, join me on a journey where web application
   <a href="https://www.php.net/" target="_blank">
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  </a>
   <a href="https://nodejs.org/en" target="_blank">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   </a> 
