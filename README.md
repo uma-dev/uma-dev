@@ -1,6 +1,6 @@
-# Hi there! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> -->
+# Hi there!
 
-I'm a **Developer** and Telecomm Eng, join me on a journey where web applications, scripts and more come to life!
+Join me on a journey where web applications, scripts and more come to life!
 
 <!-- Skills -->
 <div>
