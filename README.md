@@ -90,7 +90,7 @@ Join me on a journey where web applications, scripts and more come to life!
   </a> 
 </div>
 
-<!-- Stats -->
+<!-- Stats
 <br/>
 <table><tr>
   <td valign="center" width="50%">
@@ -110,6 +110,7 @@ Join me on a journey where web applications, scripts and more come to life!
   </div>
 </td>
 </tr></table>
+-->
 
 <!-- Contact -->
 <br/>
